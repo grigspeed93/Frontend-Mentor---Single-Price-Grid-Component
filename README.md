@@ -3,6 +3,7 @@
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 <a href="https://grigspeed93.github.io/Frontend-Mentor---Single-Price-Grid-Component/">
 ## Welcome! 👋
+  <a href="https://github.com/grigspeed93">
 
 Thanks for checking out this front-end coding challenge.
 
